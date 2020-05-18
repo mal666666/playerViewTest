@@ -1,0 +1,17 @@
+//
+//  PlayerViewSDK.pch
+//  PlayerViewSDK
+//
+//  Created by Mac on 2020/5/15.
+//  Copyright © 2020 马 爱林. All rights reserved.
+//
+
+#ifndef PlayerViewSDK_pch
+#define PlayerViewSDK_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <Masonry.h>
+
+#endif /* PlayerViewSDK_pch */
